@@ -12,17 +12,17 @@ Survive the zombies as for as long as possible
 ## Game Screen
 - Select Button to pause the game
 - Use the directional buttons to move your character
--A button to shoot
--B button to melee
--L bumper to change weapon
--R bumper to reload
+- A button to shoot
+- B button to melee
+- L bumper to change weapon
+- R bumper to reload
 
 ## Pause Screen
 - Select button to unpause the game
 - Start button to go back to the start screen
 
 ## Win Screen
--Select button to go back to the start screen
+- Select button to go back to the start screen
 
 ## Instructs Screen
 -Select button to go back to the game screen
@@ -36,9 +36,9 @@ If you get hit by zombie and your health drops below zero you lose
 
 
 ## Playing from GBA Ninja Link
--Select: Backspace
--Start: Enter
--melee: X
--shoot: control(Mac)
--change weapon: Shift
--reload: Z
+- Select: Backspace
+- Start: Enter
+- melee: X
+- shoot: control(Mac)
+- change weapon: Shift
+- reload: Z
