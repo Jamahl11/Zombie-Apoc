@@ -33,3 +33,12 @@ If you get hit by zombie and your health drops below zero you lose
 
 ##Cheat
 - Press the a button during the start screen and everytime you melee in game you kill all the enemies
+
+
+## Playing from GBA Ninja Link
+-Select: Backspace
+-Start: Enter
+-melee: X
+-shoot: control(Mac)
+-change weapon: Shift
+-reload: Z
